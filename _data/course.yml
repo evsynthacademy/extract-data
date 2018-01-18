@@ -1,6 +1,6 @@
 title: Data Extraction
 description: Get Started with Data Extraction!
-modules: [Who we are,Getting Started, Design Search, Screening ]
+modules: [Who we are, ]
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
  
