@@ -13,7 +13,6 @@ Remember this example from earlier in the course?<br><br>
 > “Data for the 40 patients who were given all 4 doses of medications were considered evaluable for efficacy and safety. The overall study population consisted of 10 (44%) men and 24 (56%) women, with a racial composition of 38 (88%) whites and 5 (12%) blacks.”
 
 <br><br>
-
 This paragraph says there were 40 patients in the study, but if you look at the demographic data, the numbers don’t add up:<br><br>
 
 <center>10 Men + 24 Women = 34 Patients</center>
