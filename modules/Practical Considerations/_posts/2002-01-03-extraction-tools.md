@@ -22,6 +22,8 @@ SRDR is free and open to anyone, but you have to set up an account to use the se
 <br><br>
 Here’s a peek at the layout for SRDR:
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%Need Image %%%%%%%%%%%%%%%%%
+<center>
+<img src="{{site.baseurl}}/img/srdr.png">
+</center>
 
 
