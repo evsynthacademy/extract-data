@@ -19,7 +19,7 @@ This paragraph says there were 40 patients in the study, but if you look at the 
 <center>10 Men + 24 Women = 34 Patients</center>
 <br>Maybe some of the patients didn’t identify as male or female? But that still doesn’t explain why data about the racial background of the patients adds up to more than the total:<br><br>
 
-$$38\text{ white patients} + 5\text{ black patients} = 43\text{ patients}.$$
+<center>38 white patients + 5 black patients = 43 patients</center>
 
 <br><br>
 So, what should you enter in your extraction form? Were there 40, 34, or 43 patients in the study?
