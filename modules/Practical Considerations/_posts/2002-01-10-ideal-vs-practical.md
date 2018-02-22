@@ -15,8 +15,8 @@ Even if you carefully train your team far in advance, you’re going to find som
 Take a look at this side by side comparison of how two research assistants extracted data from the same study:<br><br>
 
 <center>
-<img src="{{site.baseurl}}/img/sidebyside.jpg">
-</center>
+<img src="{{site.baseurl}}/img/sidebyside.png">
+</center><br>
 
 
 You’ll notice that reviewer A’s form includes just the basic information, while reviewer B’s form includes a lot of details, especially about depression incidence.
