@@ -6,7 +6,7 @@
 ## Quality Checks
 
 <center>
-<img src="{{site.baseurl}}/img/desk.jpg">
+<img src="{{site.baseurl}}/img/desk.png">
 </center>
 
 
