@@ -5,7 +5,7 @@
 ## Quality Checks
 
 <center>
-<img src="http://evsynthacademy.org/extract-data/img/desk.jpg" width = "800">
+<img src="{{site.baseurl}}/img/desk.jpg" width = "800">
 </center>
 
 
