@@ -5,7 +5,7 @@
 ## Quality Checks
 
 <center>
-<img src="{{site.baseurl}}/img/desk.jpg" width = "800">
+<img src="{{site.baseurl}}/img/desk.jpg" width = "500">
 </center>
 
 
