@@ -2,11 +2,10 @@
   title: " Quality Checks "
 ---
 
-
 ## Quality Checks
 
 <center>
-<img src="{{site.baseurl}}/img/desk.png">
+<img src="{{site.baseurl}}/img/desk.jpg">
 </center>
 
 
