@@ -5,9 +5,10 @@
 
 ## Quality Checks
 
+<center>
+<img src="{{site.baseurl}}/img/desk.jpg">
+</center>
 
-
-%%%%%%%%%%%%%%%%%%%% Need Image %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 If you have to find and organize data from hundreds (or even thousands) of studies, you’re likely to make a few mistakes along the way. 
 <br><br>
