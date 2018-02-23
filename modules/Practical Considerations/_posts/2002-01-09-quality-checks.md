@@ -5,7 +5,7 @@
 ## Quality Checks
 
 <center>
-<img src="{{site.baseurl}}/img/desk.jpg">
+<img src="http://evsynthacademy.org/extract-data/img/desk.jpg">
 </center>
 
 
