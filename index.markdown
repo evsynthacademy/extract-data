@@ -3,10 +3,10 @@ layout: index
 published: true
 ---
 
+# How to Extract Your Data
 
-This is the fourth part in a series of online courses about how to conduct a systematic review. If you haven’t completed the other steps yet, please [visit our homepage](https://evsynthacademy.org) to start from the beginning. 
+This is the fifth part in a series of online courses about how to conduct a systematic review. If you haven’t completed the other steps yet, please <a href = "https://evsynthacademy.org/">visit our homepage</a> to start from the beginning.
 
-For more background on what a systematic review is and how it might help you answer an important question, check out our [intro course](https://evsynthacademy.github.io/Intro-Evidence-Synthesis/).
-If you’re ready to develop your search strategy and screen studies, [click here to get started!]({{site.baseurl}}/modules/why%20extract%20data/why-extract/)
+For more background on what a systematic review is and how it might help you answer an important question, check out our <a href = "http://evsynthacademy.org/Intro-Evidence-Synthesis/">intro course</a>. 
 
-
+If you’re ready to write your research question, [click here to get started!]({{site.baseurl}}/modules/good%20questions/intro/)
