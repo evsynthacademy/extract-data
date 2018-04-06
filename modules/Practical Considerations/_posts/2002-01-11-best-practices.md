@@ -1,5 +1,5 @@
 ---
-  title: " Best practices for quality control "
+  title: " Best Practices "
 ---
 
 
